@@ -5,4 +5,4 @@ The main object is to create a model capable of predicting the air temperature u
 
 The dataset covers hourly weather data from 122 weathers stations of southeast region (Brazil). The southeast include the states of Rio de Janeiro, São Paulo, Minas Gerais e Espirito Santo. Dataset Source: INMET (National Meteorological Institute – Brazil).
 
-![](https://assets.thehansindia.com/h-upload/2019/12/01/241086-weather-forecast-andhra-pra.jpg
+
